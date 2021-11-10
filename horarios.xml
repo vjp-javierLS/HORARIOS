@@ -1,0 +1,248 @@
+<!DOCTYPE centro SYSTEM "horarios.dtd">
+<centro>
+    <nombre>IES Valle del Jerte</nombre>
+    <direccion_web>https://iesvallejertepla.educarex.es/</direccion_web>
+    <curso_escolar>2021-2022</curso_escolar>
+                <grupos>
+                    <grupo>
+                        <turoria>Asunción Martínez</turoria>
+                        <nombre_grupo>1º ASIR</nombre_grupo>
+                        <horario>
+                            <dia>
+                                <Lunes>
+                                    <periodo>
+                                        <1ª[15:20 - 16:15]>GBD</1ª>
+                                        <2ª[16:15 - 17:10]>GBD</2ª>
+                                        <3ª[17:10 - 18:05]>ISO</3ª>
+                                        <Recreo>[18:05 - 18:25]</Recreo>
+                                        <4ª[18:25 - 19:20]>LMSGI</4ª>
+                                        <5ª[19:20 - 20:15]>PARE</5ª>
+                                        <6ª[20:15 - 21:10]>PARE</6ª>
+                                    </periodo>
+                                </Lunes>
+                            </dia>
+                            <dia>
+                                <Martes>
+                                    <periodo>
+                                        <1ª[15:20 - 16:15]>GBD</1ª>
+                                        <2ª[16:15 - 17:10]>GBD</2ª>
+                                        <3ª[17:10 - 18:05]>ISO</3ª>
+                                        <Recreo>[18:05 - 18:25]</Recreo>
+                                        <4ª[18:25 - 19:20]>LMSGI</4ª>
+                                        <5ª[19:20 - 20:15]>FHW</5ª>
+                                        <6ª[20:15 - 21:10]>FHW</6ª>
+                                    </periodo>
+                                </Martes>
+                            </dia>
+                            <dia>
+                                <Miercoles>
+                                    <periodo>
+                                        <1ª[15:20 - 16:15]>FWH</1ª>
+                                        <2ª[16:15 - 17:10]>FOL</2ª>
+                                        <3ª[17:10 - 18:05]>ISO</3ª>
+                                        <Recreo>[18:05 - 18:25]</Recreo>
+                                        <4ª[18:25 - 19:20]>ISO</4ª>
+                                        <5ª[19:20 - 20:15]>PARE</5ª>
+                                        <6ª[20:15 - 21:10]>PARE</6ª>
+                                    </periodo>
+                                </Miercoles>
+                            </dia>
+                            <dia>
+                                <Jueves>
+                                    <periodo>
+                                        <1ª[15:20 - 16:15]>GBD</1ª>
+                                        <2ª[16:15 - 17:10]>GBD</2ª>
+                                        <3ª[17:10 - 18:05]>ISO</3ª>
+                                        <Recreo>[18:05 - 18:25]</Recreo>
+                                        <4ª[18:25 - 19:20]>LMSGI</4ª>
+                                        <5ª[19:20 - 20:15]>PARE</5ª>
+                                        <6ª[20:15 - 21:10]>FOL</6ª>
+                                    </periodo>
+                                </Jueves>
+                            </dia>
+                            <dia>
+                                <Viernes>
+                                    <periodo>
+                                        <1ª[15:20 - 16:15]>PARE</1ª>
+                                        <2ª[16:15 - 17:10]>PARE</2ª>
+                                        <3ª[17:10 - 18:05]>ISO</3ª>
+                                        <Recreo>[18:05 - 18:25]</Recreo>
+                                        <4ª[18:25 - 19:20]>ISO</4ª>
+                                        <5ª[19:20 - 20:15]>LMSGI</5ª>
+                                        <6ª[20:15 - 21:10]>FOL</6ª>
+                                    </periodo>
+                                </Viernes>
+                            </dia>
+                        </horario>
+                        <nombre_grado>Administración de Sistemas Informáticos en Red</nombre_grado>
+                        <asignaturas_y_profesores>
+                            <ISO>Implementación de Sistemas Operativos (224h) - Antonio Berrocal</ISO>
+                            <PARE>Planificación y Administración de Redes (224h) - M. Belén Carrero</PARE>
+                            <FHW>Fundamentos de Hardware (96h) - Tomás Montero</FHW>
+                            <GBD>Gestión de Bases de Datos (192h) - Charo Holgado</GBD>
+                            <LMSGI>Lenguajes de Marca y Sistemas Gestión de Inf. (128h) - Antonio Berrocal</LMSGI>
+                            <FOL>Formación y Orientación Laboral (96h) - Asunción Martínez</FOL>
+                        </asignaturas_y_profesores>
+                    </grupo>
+                    <grupo>
+                        <turoria>Puerto Cruz Mateos</turoria>
+                        <nombre_grupo>1º DAM</nombre_grupo>
+                        <horario>
+                            <dia>
+                                <Lunes>
+                                    <periodo>
+                                        <1ª[15:20 - 16:15]>LMSGI</1ª>
+                                        <2ª[16:15 - 17:10]>LMSGI</2ª>
+                                        <3ª[17:10 - 18:05]>BBDD</3ª>
+                                        <Recreo>[18:05 - 18:25]</Recreo>
+                                        <4ª[18:25 - 19:20]>BBDD</4ª>
+                                        <5ª[19:20 - 20:15]>ENTDL</5ª>
+                                        <6ª[20:15 - 21:10]>ENTDL</6ª>
+                                    </periodo>
+                                </Lunes>
+                            </dia>
+                            <dia>
+                                <Martes>
+                                    <periodo>
+                                        <1ª[15:20 - 16:15]>PGRMC</1ª>
+                                        <2ª[16:15 - 17:10]>FOL</2ª>
+                                        <3ª[17:10 - 18:05]>BBDD</3ª>
+                                        <Recreo>[18:05 - 18:25]</Recreo>
+                                        <4ª[18:25 - 19:20]>BBDD</4ª>
+                                        <5ª[19:20 - 20:15]>SSINF</5ª>
+                                        <6ª[20:15 - 21:10]>SSINF</6ª>
+                                    </periodo>
+                                </Martes>
+                            </dia>
+                            <dia>
+                                <Miercoles>
+                                    <periodo>
+                                        <1ª[15:20 - 16:15]>LMSGI</1ª>
+                                        <2ª[16:15 - 17:10]>SSINF</2ª>
+                                        <3ª[17:10 - 18:05]>PGRMC</3ª>
+                                        <Recreo>[18:05 - 18:25]</Recreo>
+                                        <4ª[18:25 - 19:20]>PGRMC</4ª>
+                                        <5ª[19:20 - 20:15]>ENTDL</5ª>
+                                        <6ª[20:15 - 21:10]>ENTDL</6ª>
+                                    </periodo>
+                                </Miercoles>
+                            </dia>
+                            <dia>
+                                <Jueves>
+                                    <periodo>
+                                        <1ª[15:20 - 16:15]>LMSGI</1ª>
+                                        <2ª[16:15 - 17:10]>PGRMC</2ª>
+                                        <3ª[17:10 - 18:05]>BBDD</3ª>
+                                        <Recreo>[18:05 - 18:25]</Recreo>
+                                        <4ª[18:25 - 19:20]>BBDD</4ª>
+                                        <5ª[19:20 - 20:15]>FOL</5ª>
+                                        <6ª[20:15 - 21:10]>SSINF</6ª>
+                                    </periodo>
+                                </Jueves>
+                            </dia>
+                            <dia>
+                                <Viernes>
+                                    <periodo>
+                                        <1ª[15:20 - 16:15]>FOL</1ª>
+                                        <2ª[16:15 - 17:10]>PGRMC</2ª>
+                                        <3ª[17:10 - 18:05]>PGRMC</3ª>
+                                        <Recreo>[18:05 - 18:25]</Recreo>
+                                        <4ª[18:25 - 19:20]>PGRMC</4ª>
+                                        <5ª[19:20 - 20:15]>SSINF</5ª>
+                                        <6ª[20:15 - 21:10]>SSINF</6ª>
+                                    </periodo>
+                                </Viernes>
+                            </dia>
+                        </horario>
+                        <nombre_grado>Desarrollo de Aplicaciones Multiplataforma</nombre_grado>
+                        <asignaturas_y_profesores>
+                            <SSINF>Sistemas Informáticos (192h) - Julio Barbero</SSINF>
+                            <BBDD>Bases de Datos (192h) - Puerto Cruz</BBDD>
+                            <PGRMC>Programación (224h) - Enreique Pineda</PGRMC>
+                            <ENTDL>Entornos de Desarrollo (128h) - Olga Sánchez</ENTDL>
+                            <LMSGI>Lenguajes de Marca y Sistemas Gestión de Inf. (128h) - Antonio Berrocal</LMSGI>
+                            <FOL>Formación y Orientación Laboral (96h) - Asunción Martínez</FOL>
+                        </asignaturas_y_profesores>
+                    </grupo>
+                    <grupo>
+                        <turoria>Enrique Pineda</turoria>
+                        <nombre_grupo>1º DAW</nombre_grupo>
+                        <horario>
+                            <dia>
+                                <Lunes>
+                                    <periodo>
+                                        <1ª[15:20 - 16:15]>BBDD</1ª>
+                                        <2ª[16:15 - 17:10]>BBDD</2ª
+                                        ><3ª[17:10 - 18:05]>FOL</3ª>
+                                        <Recreo>[18:05 - 18:25]</Recreo>
+                                        <4ª[18:25 - 19:20]>SSINF</4ª>
+                                        <5ª[19:20 - 20:15]>PGRMC</5ª>
+                                        <6ª[20:15 - 21:10]>PGRMC</6ª>
+                                    </periodo>
+                                </Lunes>
+                            </dia>
+                            <dia>
+                                <Martes>
+                                    <periodo>
+                                        <1ª[15:20 - 16:15]>LMSGI</1ª>
+                                        <2ª[16:15 - 17:10]>LMSGI</2ª>
+                                        <3ª[17:10 - 18:05]>SSINF</3ª>
+                                        <Recreo>[18:05 - 18:25]</Recreo>
+                                        <4ª[18:25 - 19:20]>FOL</4ª>
+                                        <5ª[19:20 - 20:15]>PGRMC</5ª>
+                                        <6ª[20:15 - 21:10]>PGRMC</6ª>
+                                    </periodo>
+                                </Martes>
+                            </dia>
+                            <dia>
+                                <Miercoles>
+                                    <periodo>
+                                        <1ª[15:20 - 16:15]>PGRMC</1ª>
+                                        <2ª[16:15 - 17:10]>PGRMC</2ª>
+                                        <3ª[17:10 - 18:05]>SSINF</3ª>
+                                        <Recreo>[18:05 - 18:25]</Recreo>
+                                        <4ª[18:25 - 19:20]>ENTDL</4ª>
+                                        <5ª[19:20 - 20:15]>BBDD</5ª>
+                                        <6ª[20:15 - 21:10]>BBDD</6ª>
+                                    </periodo>
+                                </Miercoles>
+                            </dia>
+                            <dia>
+                                <Jueves>
+                                    <periodo>
+                                        <1ª[15:20 - 16:15]>FOL</1ª>
+                                        <2ª[16:15 - 17:10]>LMSGI</2ª>
+                                        <3ª[17:10 - 18:05]>PGRMC</3ª>
+                                        <Recreo>[18:05 - 18:25]</Recreo>
+                                        <4ª[18:25 - 19:20]>SSINF</4ª>
+                                        <5ª[19:20 - 20:15]>SSINF</5ª>
+                                        <6ª[20:15 - 21:10]>ENTDL</6ª>
+                                    </periodo>
+                                </Jueves>
+                            </dia>
+                            <dia>
+                                <Viernes>
+                                    <periodo>
+                                        <1ª[15:20 - 16:15]>LMSGI</1ª>
+                                        <2ª[16:15 - 17:10]>BBDD</2ª>
+                                        <3ª[17:10 - 18:05]>BBDD</3ª>
+                                        <Recreo>[18:05 - 18:25]</Recreo>
+                                        <4ª[18:25 - 19:20]>SSINF</4ª>
+                                        <5ª[19:20 - 20:15]>ENTDL</5ª>
+                                        <6ª[20:15 - 21:10]>ENTDL</6ª>
+                                    </periodo>
+                                </Viernes>
+                            </dia>
+                        </horario>
+                        <nombre_grado>Desarrollo de Aplicaciones Web</nombre_grado>
+                        <asignaturas_y_profesores>
+                            <SSINF>Sistemas Informáticos (192h) - Julio Barbero</SSINF>
+                            <BBDD>Bases de Datos (192h) - Puerto Cruz</BBDD>
+                            <PGRMC>Programación (224h) - Enreique Pineda</PGRMC>
+                            <ENTDL>Entornos de Desarrollo (128h) - Olga Sánchez</ENTDL>
+                            <LMSGI>Lenguajes de Marca y Sistemas Gestión de Inf. (128h) - Antonio Berrocal</LMSGI>
+                            <FOL>Formación y Orientación Laboral (96h) - Marta Pérez</FOL>
+                        </asignaturas_y_profesores>
+                    </grupo>
+                </grupos>
+</centro>

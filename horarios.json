@@ -1,0 +1,299 @@
+{
+    "centro":
+    { 
+        "nombre":"IES Valle del Jerte",
+        "direccion_web":"https://iesvallejertepla.educarex.es/",
+        "curso_escolar":"2021-2022",
+        "grupos":
+        {
+            "grupo":
+            [
+                {
+                    "turoria": "Asunción Martínez",
+                    "nombre_grupo": "1º ASIR",
+                    "horario":
+                    {
+                        "dia":
+                        [ 
+                            {
+                                "Lunes":
+                                {
+                                    "periodo":
+                                    {
+                                        "1ª[15:20 - 16:15]": "GBD",
+                                        "2ª[16:15 - 17:10]": "GBD",
+                                        "3ª[17:10 - 18:05]": "ISO",
+                                        "[18:05 - 18:25]": "Recreo",
+                                        "4ª[18:25 - 19:20]": "LMSGI",
+                                        "5ª[19:20 - 20:15]": "PARE",
+                                        "6ª[20:15 - 21:10]": "PARE"
+                                    }
+                                }
+                            },
+                            {
+                                "Martes":
+                                {
+                                    "periodo":
+                                    {
+                                        "1ª[15:20 - 16:15]": "GBD",
+                                        "2ª[16:15 - 17:10]": "GBD",
+                                        "3ª[17:10 - 18:05]": "ISO",
+                                        "[18:05 - 18:25]": "Recreo",
+                                        "4ª[18:25 - 19:20]": "LMSGI",
+                                        "5ª[19:20 - 20:15]": "FHW",
+                                        "6ª[20:15 - 21:10]": "FHW"
+                                    }
+                                }
+                            },
+                            {
+                                "Miércoles":
+                                {
+                                    "periodo":
+                                    {
+                                        "1ª[15:20 - 16:15]": "FWH",
+                                        "2ª[16:15 - 17:10]": "FOL",
+                                        "3ª[17:10 - 18:05]": "ISO",
+                                        "[18:05 - 18:25]": "Recreo",
+                                        "4ª[18:25 - 19:20]": "ISO",
+                                        "5ª[19:20 - 20:15]": "PARE",
+                                        "6ª[20:15 - 21:10]": "PARE"
+                                    }   
+                                }
+                            },
+                            {
+                                "Jueves":
+                                {
+                                    "periodo":
+                                    {
+                                        "1ª[15:20 - 16:15]": "GBD",
+                                        "2ª[16:15 - 17:10]": "GBD",
+                                        "3ª[17:10 - 18:05]": "ISO",
+                                        "[18:05 - 18:25]": "Recreo",
+                                        "4ª[18:25 - 19:20]": "LMSGI",
+                                        "5ª[19:20 - 20:15]": "PARE",
+                                        "6ª[20:15 - 21:10]": "FOL"
+                                    }   
+                                }
+                            },
+                            {
+                                "Viernes":
+                                {
+                                    "periodo":
+                                    {
+                                        "1ª[15:20 - 16:15]": "PARE",
+                                        "2ª[16:15 - 17:10]": "PARE",
+                                        "3ª[17:10 - 18:05]": "ISO",
+                                        "[18:05 - 18:25]": "Recreo",
+                                        "4ª[18:25 - 19:20]": "ISO",
+                                        "5ª[19:20 - 20:15]": "LMSGI",
+                                        "6ª[20:15 - 21:10]": "FOL"
+                                    }   
+                                }
+                            }
+                        ]
+                    },
+                    "nombre_grado": "Administración de Sistemas Informáticos en Red",
+                    "asignaturas_y_profesores":
+                    {
+                        "ISO": "Implementación de Sistemas Operativos (224h) - Antonio Berrocal",
+                        "PARE": "Planificación y Administración de Redes (224h) - M. Belén Carrero",
+                        "FHW": "Fundamentos de Hardware (96h) - Tomás Montero",
+                        "GBD": "Gestión de Bases de Datos (192h) - Charo Holgado",
+                        "LMSGI": "Lenguajes de Marca y Sistemas Gestión de Inf. (128h) - Antonio Berrocal",
+                        "FOL": "Formación y Orientación Laboral (96h) - Asunción Martínez"
+                    }
+                },
+                {
+                    "turoria": "Puerto Cruz Mateos",
+                    "nombre_grupo": "1º DAM",
+                    "horario":
+                    {
+                        "dia":
+                        [ 
+                            {
+                                "Lunes":
+                                {
+                                    "periodo":
+                                    {
+                                        "1ª[15:20 - 16:15]": "LMSGI",
+                                        "2ª[16:15 - 17:10]": "LMSGI",
+                                        "3ª[17:10 - 18:05]": "BBDD",
+                                        "[18:05 - 18:25]": "Recreo",
+                                        "4ª[18:25 - 19:20]": "BBDD",
+                                        "5ª[19:20 - 20:15]": "ENTDL",
+                                        "6ª[20:15 - 21:10]": "ENTDL"
+                                    }
+                                }
+                            },
+                            {
+                                "Martes":
+                                {
+                                    "periodo":
+                                    {
+                                        "1ª[15:20 - 16:15]": "PGRMC",
+                                        "2ª[16:15 - 17:10]": "FOL",
+                                        "3ª[17:10 - 18:05]": "BBDD",
+                                        "[18:05 - 18:25]": "Recreo",
+                                        "4ª[18:25 - 19:20]": "BBDD",
+                                        "5ª[19:20 - 20:15]": "SSINF",
+                                        "6ª[20:15 - 21:10]": "SSINF"
+                                    }
+                                }
+                            },
+                            {
+                                "Miércoles":
+                                {
+                                    "periodo":
+                                    {
+                                        "1ª[15:20 - 16:15]": "LMSGI",
+                                        "2ª[16:15 - 17:10]": "SSINF",
+                                        "3ª[17:10 - 18:05]": "PGRMC",
+                                        "[18:05 - 18:25]": "Recreo",
+                                        "4ª[18:25 - 19:20]": "PGRMC",
+                                        "5ª[19:20 - 20:15]": "ENTDL",
+                                        "6ª[20:15 - 21:10]": "ENTDL"
+                                    }   
+                                }
+                            },
+                            {
+                                "Jueves":
+                                {
+                                    "periodo":
+                                    {
+                                        "1ª[15:20 - 16:15]": "LMSGI",
+                                        "2ª[16:15 - 17:10]": "PGRMC",
+                                        "3ª[17:10 - 18:05]": "BBDD",
+                                        "[18:05 - 18:25]": "Recreo",
+                                        "4ª[18:25 - 19:20]": "BBDD",
+                                        "5ª[19:20 - 20:15]": "FOL",
+                                        "6ª[20:15 - 21:10]": "SSINF"
+                                    }   
+                                }
+                            },
+                            {
+                                "Viernes":
+                                {
+                                    "periodo":
+                                    {
+                                        "1ª[15:20 - 16:15]": "FOL",
+                                        "2ª[16:15 - 17:10]": "PGRMC",
+                                        "3ª[17:10 - 18:05]": "PGRMC",
+                                        "[18:05 - 18:25]": "Recreo",
+                                        "4ª[18:25 - 19:20]": "PGRMC",
+                                        "5ª[19:20 - 20:15]": "SSINF",
+                                        "6ª[20:15 - 21:10]": "SSINF"
+                                    }   
+                                }
+                            }
+                        ]
+                    },
+                    "nombre_grado": "Desarrollo de Aplicaciones Multiplataforma",
+                    "asignaturas_y_profesores":
+                    {
+                        "SSINF": "Sistemas Informáticos (192h) - Julio Barbero",
+                        "BBDD": "Bases de Datos (192h) - Puerto Cruz",
+                        "PGRMC": "Programación (224h) - Enreique Pineda",
+                        "ENTDL": "Entornos de Desarrollo (128h) - Olga Sánchez",
+                        "LMSGI": "Lenguajes de Marca y Sistemas Gestión de Inf. (128h) - Antonio Berrocal",
+                        "FOL": "Formación y Orientación Laboral (96h) - Asunción Martínez"
+                    }
+                },
+                {
+                    "turoria": "Enrique Pineda",
+                    "nombre_grupo": "1º DAW",
+                    "horario":
+                    {
+                        "dia":
+                        [ 
+                            {
+                                "Lunes":
+                                {
+                                    "periodo":
+                                    {
+                                        "1ª[15:20 - 16:15]": "BBDD",
+                                        "2ª[16:15 - 17:10]": "BBDD",
+                                        "3ª[17:10 - 18:05]": "FOL",
+                                        "[18:05 - 18:25]": "Recreo",
+                                        "4ª[18:25 - 19:20]": "SSINF",
+                                        "5ª[19:20 - 20:15]": "PGRMC",
+                                        "6ª[20:15 - 21:10]": "PGRMC"
+                                    }
+                                }
+                            },
+                            {
+                                "Martes":
+                                {
+                                    "periodo":
+                                    {
+                                        "1ª[15:20 - 16:15]": "LMSGI",
+                                        "2ª[16:15 - 17:10]": "LMSGI",
+                                        "3ª[17:10 - 18:05]": "SSINF",
+                                        "[18:05 - 18:25]": "Recreo",
+                                        "4ª[18:25 - 19:20]": "FOL",
+                                        "5ª[19:20 - 20:15]": "PGRMC",
+                                        "6ª[20:15 - 21:10]": "PGRMC"
+                                    }
+                                }
+                            },
+                            {
+                                "Miércoles":
+                                {
+                                    "periodo":
+                                    {
+                                        "1ª[15:20 - 16:15]": "PGRMC",
+                                        "2ª[16:15 - 17:10]": "PGRMC",
+                                        "3ª[17:10 - 18:05]": "SSINF",
+                                        "[18:05 - 18:25]": "Recreo",
+                                        "4ª[18:25 - 19:20]": "ENTDL",
+                                        "5ª[19:20 - 20:15]": "BBDD",
+                                        "6ª[20:15 - 21:10]": "BBDD"
+                                    }   
+                                }
+                            },
+                            {
+                                "Jueves":
+                                {
+                                    "periodo":
+                                    {
+                                        "1ª[15:20 - 16:15]": "FOL",
+                                        "2ª[16:15 - 17:10]": "LMSGI",
+                                        "3ª[17:10 - 18:05]": "PGRMC",
+                                        "[18:05 - 18:25]": "Recreo",
+                                        "4ª[18:25 - 19:20]": "SSINF",
+                                        "5ª[19:20 - 20:15]": "SSINF",
+                                        "6ª[20:15 - 21:10]": "ENTDL"
+                                    }   
+                                }
+                            },
+                            {
+                                "Viernes":
+                                {
+                                    "periodo":
+                                    {
+                                        "1ª[15:20 - 16:15]": "LMSGI",
+                                        "2ª[16:15 - 17:10]": "BBDD",
+                                        "3ª[17:10 - 18:05]": "BBDD",
+                                        "[18:05 - 18:25]": "Recreo",
+                                        "4ª[18:25 - 19:20]": "SSINF",
+                                        "5ª[19:20 - 20:15]": "ENTDL",
+                                        "6ª[20:15 - 21:10]": "ENTDL"
+                                    }   
+                                }
+                            }
+                        ]
+                    },
+                    "nombre_grado": "Desarrollo de Aplicaciones Web",
+                    "asignaturas_y_profesores":
+                    {
+                        "SSINF": "Sistemas Informáticos (192h) - Julio Barbero",
+                        "BBDD": "Bases de Datos (192h) - Puerto Cruz",
+                        "PGRMC": "Programación (224h) - Enreique Pineda",
+                        "ENTDL": "Entornos de Desarrollo (128h) - Olga Sánchez",
+                        "LMSGI": "Lenguajes de Marca y Sistemas Gestión de Inf. (128h) - Antonio Berrocal",
+                        "FOL": "Formación y Orientación Laboral (96h) - Marta Pérez"
+                    }
+                }
+            ]
+        }
+    }
+}
